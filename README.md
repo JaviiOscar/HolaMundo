@@ -6,4 +6,6 @@ I love :icecream:, :pizza:, :dog:
 
 I love :star:, :book:, :moon:
 
-I love :kiwi:, :soccer:, :crayon:
+I love :cocktail:, :soccer:, :crayon:
+
+I love :mandarin:, :argentina:, :camera:
